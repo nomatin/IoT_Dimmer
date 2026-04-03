@@ -4302,8 +4302,8 @@
 		(uuid 3e686b22-1559-4197-a9f6-473da840e2a9)
 	)
 	(rectangle
-		(start 185.42 118.745)
-		(end 282.575 165.1)
+		(start 185.42 118.11)
+		(end 282.575 165.735)
 		(stroke
 			(width 0)
 			(type dash)
@@ -4339,7 +4339,7 @@
 	)
 	(text "220 VAC (HIGH VOLTAGE)"
 		(exclude_from_sim no)
-		(at 238.76 23.622 0)
+		(at 237.998 21.336 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6860,7 +6860,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 113.9952 26.67 0)
 			(effects
 				(font
@@ -6929,7 +6929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 206.7052 72.39 0)
 			(effects
 				(font
@@ -7065,7 +7065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 45.4152 137.16 0)
 			(effects
 				(font
@@ -7117,7 +7117,7 @@
 		(dnp no)
 		(uuid "19990a67-1fa6-4d19-a44c-aae5d8b96517")
 		(property "Reference" "F1"
-			(at 271.018 29.972 0)
+			(at 272.796 29.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7126,7 +7126,7 @@
 			)
 		)
 		(property "Value" "2A"
-			(at 271.018 32.004 0)
+			(at 272.796 31.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7134,7 +7134,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_Littelfuse-NANO2-462"
 			(at 275.082 30.48 90)
 			(effects
 				(font
@@ -7610,7 +7610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 53.0352 137.16 0)
 			(effects
 				(font
@@ -7985,7 +7985,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 268.9352 154.94 0)
 			(effects
 				(font
@@ -8326,7 +8326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 55.5752 43.18 0)
 			(effects
 				(font
@@ -9122,7 +9122,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 67.0052 43.18 0)
 			(effects
 				(font
@@ -9453,7 +9453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-3_TabPin2"
 			(at 266.065 89.535 90)
 			(effects
 				(font
@@ -9715,7 +9715,7 @@
 				)
 			)
 		)
-		(property "Value" "MOC3021M"
+		(property "Value" "MOC3021S"
 			(at 222.25 81.28 0)
 			(effects
 				(font
@@ -9723,7 +9723,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MOC3021SM:DIP6_SMD"
 			(at 217.17 92.71 0)
 			(effects
 				(font
@@ -9807,7 +9807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 88.5952 26.67 0)
 			(effects
 				(font
@@ -9941,7 +9941,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 206.7052 53.34 0)
 			(effects
 				(font
@@ -10342,7 +10342,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 230.8352 151.13 0)
 			(effects
 				(font
@@ -10608,7 +10608,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 230.8352 158.75 0)
 			(effects
 				(font
@@ -10947,7 +10947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 53.0352 175.26 0)
 			(effects
 				(font
@@ -11148,7 +11148,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 136.8552 44.45 0)
 			(effects
 				(font
@@ -11218,7 +11218,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 23.8252 100.33 0)
 			(effects
 				(font
@@ -12075,7 +12075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 88.5952 43.18 0)
 			(effects
 				(font
@@ -12213,7 +12213,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 126.6952 44.45 0)
 			(effects
 				(font
@@ -12626,7 +12626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Varistor:Varistor_Panasonic_VF"
 			(at 267.462 40.64 90)
 			(effects
 				(font
@@ -12876,7 +12876,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 197.8152 72.39 0)
 			(effects
 				(font
