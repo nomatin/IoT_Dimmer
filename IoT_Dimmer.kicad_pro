@@ -26,14 +26,14 @@
         },
         "fab_line_width": 0.1,
         "fab_text_italic": false,
-        "fab_text_size_h": 1.0,
-        "fab_text_size_v": 1.0,
+        "fab_text_size_h": 0.8,
+        "fab_text_size_v": 0.8,
         "fab_text_thickness": 0.15,
         "fab_text_upright": false,
         "other_line_width": 0.1,
         "other_text_italic": false,
-        "other_text_size_h": 1.0,
-        "other_text_size_v": 1.0,
+        "other_text_size_h": 0.8,
+        "other_text_size_v": 0.8,
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
@@ -43,8 +43,8 @@
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
+        "silk_text_size_h": 0.8,
+        "silk_text_size_v": 0.8,
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
@@ -488,10 +488,18 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.2,
+        "name": "50ohm",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.21
+      },
+      {
         "clearance": 1.0,
         "name": "HV",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       }
     ],
@@ -506,6 +514,9 @@
       "Net-(C1-Pad1)": [
         "HV"
       ],
+      "Net-(C19-Pad1)": [
+        "HV"
+      ],
       "Net-(D1-A1)": [
         "HV"
       ],
@@ -518,8 +529,17 @@
       "Net-(J1-Pin_1)": [
         "HV"
       ],
+      "Net-(J2-Pin_2)": [
+        "HV"
+      ],
       "Net-(R1-Pad1)": [
         "HV"
+      ],
+      "Net-(R12-Pad1)": [
+        "HV"
+      ],
+      "Net-(U1-ANT)": [
+        "50ohm"
       ],
       "Net-(U3-ANT)": [
         "50ohm"

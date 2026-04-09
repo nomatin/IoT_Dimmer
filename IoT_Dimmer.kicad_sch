@@ -6232,7 +6232,7 @@
 		)
 		(uuid "2b49c70f-5ea8-42d9-9e93-56b81d2e2b40")
 	)
-	(label "xtal_n"
+	(label "XTAL_N"
 		(at 67.31 114.3 180)
 		(effects
 			(font
@@ -6282,7 +6282,7 @@
 		)
 		(uuid "9a8c7088-7675-4a78-8343-7643725ba0af")
 	)
-	(label "xtal_p"
+	(label "XTAL_P"
 		(at 67.31 127 180)
 		(effects
 			(font
@@ -9855,7 +9855,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 74.93 34.29 0)
 			(effects
 				(font
@@ -11011,7 +11011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 43.18 57.15 0)
 			(effects
 				(font
@@ -11617,7 +11617,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 50.4952 67.31 0)
 			(effects
 				(font
@@ -12140,7 +12140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 36.5252 67.31 0)
 			(effects
 				(font
